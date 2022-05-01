@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://aga:aga@phantom.thi3c.mongodb.net/Phantom?retryWrites=true&w=majority",
+  "clientID": "961293675420344362",
+  "token": "OTYxMjkzNjc1NDIwMzQ0MzYy.G_EIuM.4ihjvIztcHwLseHfPeX6FDyGpz-1VJcVKGh9Tc",
+  "secret": "QeKKdl6Sfywlc48bmWTzQe9yuq1zzj1B",
+  "callbackURL": "https://phantomcode.tk/callback"
+}
